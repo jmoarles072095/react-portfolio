@@ -35,11 +35,11 @@ export default {
         // Add Or Remove The Link Accordingly
         {
             name: "LinkedIn",
-            url: "https://www.linkedin.com/in/chetanverma7/"
+            url: "https://linkedin.com/in/jmorales233"
         },
         {
             name: "Github",
-            url: "https://www.behance.net/chetanverma"
+            url: "https://github.com/jmoarles072095"
         },
     ],
 
