@@ -1,10 +1,10 @@
 export default {
-    name: "JLMM",
+    name: "Jose L. Morales",
 
     //Contact Email
     contactEmail: "jmorales072095@gmail.com",
     landingPageName: "Jose L. Morales",
-    landingPagePara: "Full Stack developer. My values center in helping users achieving what I can help them with and if they can't figure it out, I will for them ",
+    landingPagePara: "My values center in helping and creating applications, that one day it may help someone or many accomplish their goals",
 
 
     landingPageImage: "assets/JoseM.jpeg",
@@ -41,6 +41,6 @@ export default {
     ],
 
     // About Page
-    aboutTitle: "",
-    aboutPara: "HELLO"
+    aboutTitle: "Full Stack Developer",
+    aboutPara: "My Name is Jose L. Morales, I am a United States Army veteran and current student at University Of Washington. I am fluent in HTML, CSS and Javascript. I am currently seeking Opportunities and experience for my future career, by applying to internships and volunteering in helping users with my knowledge. While being in the military I accomplished many personal and professional goals and also received many awards for leadership, teamwork and diversity. My education consists of an associates degree in computer science and a fullstack developer certificate from the University Of Washington."
 };
